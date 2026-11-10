@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionManifest Version="11.0" ExtensionBundleId="com.ravix.studio" ExtensionBundleVersion="10.0.101" ExtensionBundleName="RAVIX Studio">
+  <ExtensionList><Extension Id="com.ravix.studio" Version="10.0.101"/></ExtensionList>
+  <ExecutionEnvironment><HostList><Host Name="PPRO" Version="[14.0,99.9]"/></HostList><LocaleList><Locale Code="All"/></LocaleList><RequiredRuntimeList><RequiredRuntime Name="CSXS" Version="11.0"/></RequiredRuntimeList></ExecutionEnvironment>
+  <DispatchInfoList><Extension Id="com.ravix.studio"><DispatchInfo><Resources><MainPath>./index.html</MainPath><ScriptPath>./jsx/host.jsx</ScriptPath><CEFCommandLine><Parameter>--enable-nodejs</Parameter><Parameter>--mixed-context</Parameter></CEFCommandLine></Resources><Lifecycle><AutoVisible>true</AutoVisible></Lifecycle><UI><Type>Panel</Type><Menu>RAVIX Studio</Menu><Icon Type="Normal">./icons/icon32.png</Icon><Icon Type="RollOver">./icons/icon32.png</Icon><Icon Type="DarkNormal">./icons/icon32.png</Icon><Icon Type="DarkRollOver">./icons/icon32.png</Icon><Geometry><Size><Height>320</Height><Width>440</Width></Size></Geometry></UI></DispatchInfo></Extension></DispatchInfoList>
+</ExtensionManifest>
