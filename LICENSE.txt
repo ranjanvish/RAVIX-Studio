@@ -1,0 +1,16 @@
+RAVIX Studio
+Copyright (c) 2026 Ranjan Vishwakarma. All rights reserved.
+
+This Adobe Premiere Pro CEP extension is proprietary software created and developed
+by Ranjan Vishwakarma.
+
+Licensed for personal, automated, and professional video production workflows.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Contact: https://github.com/ranjanvish/RAVIX-Studio
